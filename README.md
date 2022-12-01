@@ -33,7 +33,7 @@ However, the original data set can be found on [Kaggle here.](https://www.kaggle
 - [Step 4-3 NLP Book Recommendation - Modeling with SBERT Sentence Embeddings - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_3_NLP_Book_Recommendation_Modeling_with_SBERT_Sentence_Embeddings_Meskerem_Goshime.ipynb)
 ## Acknowledgements
 
- - Huge thanks:
+ Huge thanks:
  - [To Springboard](www.springboard.com) for taking me so far into the data science field.
  - To my Springboard mentor, [Tony Paek](https://www.linkedin.com/in/tonypaek/), for his constant guidance and encouragement.
  - To Mohamed Bekheet for making the [Amazon Books Reviews dataset](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv) available on Kaggle.
