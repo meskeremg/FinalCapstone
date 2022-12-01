@@ -34,7 +34,7 @@ However, the original data set can be found on [Kaggle here.](https://www.kaggle
 ## Acknowledgements
 
  Huge thanks:
- - [To Springboard]([www.springboard.com](https://www.springboard.com/)) for taking me so far into the data science field.
+ - [To Springboard](https://www.springboard.com/) for taking me so far into the data science field.
  - To my Springboard mentor, [Tony Paek](https://www.linkedin.com/in/tonypaek/), for his constant guidance and encouragement.
  - To Mohamed Bekheet for making the [Amazon Books Reviews dataset](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv) available on Kaggle.
  - To the many data scientists who wrote articles, shared their codes and recorded video lessons on NLP. I learned from all of you!
