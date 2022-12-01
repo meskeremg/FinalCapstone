@@ -25,7 +25,7 @@ However, the original data set can be found on [Kaggle here.](https://www.kaggle
 
 ## Notebooks
 
-- [Step 1 NLP Book Recommendation - Data Wrangling - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_1_NLP_Book_Recommendation_Modeling_with_Count_Vectorizer_and_Cosine_Similarity_Meskerem_Goshime.ipynb)
+- [Step 1 NLP Book Recommendation - Data Wrangling - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step%201%20NLP%20Book%20Recommendation%20-%20Data%20Wrangling%20-%20Meskerem%20Goshime.ipynb)
 - [Step 2 NLP Book Recommendation - Exploratory Data Analysis - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step%202%20NLP%20Book%20Recommendation%20-%20Exploratory%20Data%20Analysis%20-%20Meskerem%20Goshime.ipynb)
 - [Step 3 NLP Book Recommendation - Text Preprocessing - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step%203%20NLP%20Book%20Recommendation%20-%20Text%20Preprocessing%20-%20Meskerem%20Goshime.ipynb)
 - [Step 4-1 NLP Book Recommendation - Modeling with Count Vectorizer and Cosine Similarity - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_1_NLP_Book_Recommendation_Modeling_with_Count_Vectorizer_and_Cosine_Similarity_Meskerem_Goshime.ipynb)
