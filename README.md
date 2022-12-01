@@ -1,4 +1,4 @@
-# FinalCapstone
+# Final Capstone - Springboard Data Science Program
 
 # NLP Book Recommendation System
 
