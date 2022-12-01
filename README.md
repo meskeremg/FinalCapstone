@@ -2,7 +2,7 @@
 
 # NLP Book Recommendation System
 
-Finding the next perfect book has always been a challenge for book lovers. With the large number of books being published every year, the task of finding just the right book a particular reader will like becomes more and more difficult. If booksellers can recommend the right books for readers, they can boost their revenue tremendously. The purpose of this project is to identify which books are similar based on text analysis of categories and descriptions of the books. The system will take a title of a book that the user read before and liked as an input. Then it will be able to recommend the 5 most similar books to the chosen title.
+Finding the next perfect book has always been a challenge for book lovers. With the large number of books being published every year, the task of finding just the right book a particular reader will like becomes more and more difficult. If book suppliers can recommend the right books for readers, they can boost their revenue tremendously. The purpose of this project is to identify which books are similar based on text analysis of categories and descriptions of the books. The system will take a title of a book that the user read before and liked as an input. Then it will be able to recommend the 5 most similar books to the chosen title.
 
 
 ![Logo](https://github.com/meskeremg/FinalCapstone/blob/main/books1.jpg)
