@@ -5,7 +5,7 @@
 The purpose of this project is to identify which books are similar based on text analysis of categories and descriptions of the books. The system will take a title of a book that the user read before and liked as an input. Then it will be able to recommend the 5 most similar books to the chosen title.
 
 
-![Logo](https://github.com/meskeremg/FinalCapstone/blob/main/books.jpg)
+![Logo](https://github.com/meskeremg/FinalCapstone/blob/main/books1.jpg)
 
 
 ## 🚀 About Me
