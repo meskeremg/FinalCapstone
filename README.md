@@ -28,7 +28,7 @@ However, the original data set can be found on [Kaggle here.](https://www.kaggle
 - [Step 2 NLP Book Recommendation - Exploratory Data Analysis - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step%202%20NLP%20Book%20Recommendation%20-%20Exploratory%20Data%20Analysis%20-%20Meskerem%20Goshime.ipynb)
 - [Step 3 NLP Book Recommendation - Text Preprocessing - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step%203%20NLP%20Book%20Recommendation%20-%20Text%20Preprocessing%20-%20Meskerem%20Goshime.ipynb)
 - [Step 4-1 NLP Book Recommendation - Modeling with Count Vectorizer and Cosine Similarity - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_1_NLP_Book_Recommendation_Modeling_with_Count_Vectorizer_and_Cosine_Similarity_Meskerem_Goshime.ipynb)
-- [Step 4-2 NLP Book Recommendation - Gensim and Spacy- Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_2_NLP_Book_Recommendation_Gensim_and_Spacy_Meskerem_Goshime.ipynb)
+- [Step 4-2 NLP Book Recommendation - Spacy- Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_2_NLP_Book_Recommendation_Spacy_Meskerem_Goshime.ipynb)
 - [Step 4-3 NLP Book Recommendation - Modeling with SBERT Sentence Embeddings - Meskerem Goshime.ipynb](https://github.com/meskeremg/FinalCapstone/blob/main/Step_4_3_NLP_Book_Recommendation_Modeling_with_SBERT_Sentence_Embeddings_Meskerem_Goshime.ipynb)
 ## Acknowledgements
 
