@@ -10,7 +10,6 @@ Finding the next perfect book has always been a challenge for book lovers. With 
 
 ## 🚀 About Me
 I am a data scientist with Information Science and Computer Science background.
-Please see my LinkedIn Profile: 
 [Please see my LinkedIn Profile](https://www.linkedin.com/in/meskerem-goshime/)
 
 ## Documentation
