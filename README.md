@@ -14,7 +14,7 @@ I am a data scientist with Information Science and Computer Science background.
 
 ## Documentation
 
-- [Report](https://github.com/meskeremg/FinalCapstone/blob/main/NLP%20Book%20Recommendation%20-%20Report%20-%20Meskerem%20Goshime%20-%20Final%20Capstone.pdf)
+- [Report](https://github.com/meskeremg/FinalCapstone/blob/main/Report%20-%20NLP%20Book%20Recommendation%20-%20Meskerem%20Goshime%20-%20Final%20Capstone.pdf)
 - [Presentation](https://github.com/meskeremg/FinalCapstone/blob/main/NLP%20Book%20Recommendation%20-%20Presentation%20-%20Meskerem%20Goshime%20-%20Final%20Capstone.pdf)
 
 ## Data Files
